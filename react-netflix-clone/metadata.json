@@ -1,0 +1,5 @@
+{
+  "name": "React Netflix Clone",
+  "description": "A visually appealing clone of the Netflix browse page, built with React and Tailwind CSS. This application uses the Gemini API to dynamically generate movie and TV show content, providing a modern and interactive user experience.",
+  "requestFramePermissions": []
+}
